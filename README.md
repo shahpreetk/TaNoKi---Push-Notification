@@ -41,5 +41,5 @@ This starts working once you've added these action files to your code and made t
 
 #### PS: This project has a lot of functionalities that can be added. Since I have a few time constraints because of college work, I'll add the funtionalities gradually. \
 
-#### License
+### License
 MIT License
