@@ -22,7 +22,7 @@ _Value_ will be the API Key your Push account holds. \
 This starts working once you've added these action files to your code and made the first Push Commit. Once this is done, after about every 10 minutes you will receive a push notification on your Android or IOS device that will remind you to keep working. 
 
 
-#### Built with : Visual Studio Code
+## Built with : Visual Studio Code
 * Using : 
   - GitHub Actions
   - HTML
