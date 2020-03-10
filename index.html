@@ -31,7 +31,8 @@
                                     <input type="text" name="task" id="task" required>
                                     <label for="task">New Task</label>
                                 </div>
-                                <input type="submit" value="Add Task" class="btn">
+                                <input type="submit" value="Add Task" class="btn" onclick="setTimeout(timer, 60000);">
+                                <!-- 45mins is 2700000 -->
                             </form>
                         </div>
                     </div>
@@ -73,6 +74,9 @@
                 document.getElementsByClassName("textarea").innerHTML = "Triggered enter"; 
             } 
         } 
+        function timer() {
+  alert('Hello');
+}
     </script>
 </body>
 
