@@ -1,0 +1,18 @@
+name: Push on commit
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Send Push Notification
+      uses: techulus/push-github-action@v0.0.2
+      env:
+        # CI: true
+        # API_KEY: "60bfedb6-c0a6-4071-97b8-c50fa2105d28"
+        API_KEY: ${{secrets.API_KEY}}
+        # run: sh main.yml ${{secrets.API_Key}}
+        MESSAGE: "There is a new commit!"
