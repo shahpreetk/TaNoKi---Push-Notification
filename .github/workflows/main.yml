@@ -17,4 +17,4 @@ jobs:
         # API_KEY: "60bfedb6-c0a6-4071-97b8-c50fa2105d28"
         API_KEY: ${{secrets.API_KEY}}
         # run: sh main.yml ${{secrets.API_Key}}
-        MESSAGE: "Hope You're Still Studying"
+        MESSAGE: "Hope You're Still Doing Your Work"
