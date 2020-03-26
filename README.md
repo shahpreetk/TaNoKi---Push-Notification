@@ -39,7 +39,7 @@ This starts working once you've added these action files to your code and made t
 
 [Check out the YouTube Video here](https://youtu.be/CCund6BqcVI "TaNoKi Video")
 
-#### PS: This project has a lot of functionalities that can be added. Since I have a few time constraints because of college work, I'll add the funtionalities gradually.\
+#### PS: This project has a lot of functionalities that can be added. Since I have a few time constraints because of college work, I'll add the funtionalities gradually.
 
 ### License
 MIT License
